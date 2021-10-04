@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gauthierchabanne@hotmail.fr
+	name = gauthier chabanne
